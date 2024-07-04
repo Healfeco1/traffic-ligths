@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "test": "jasmine"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "jasmine": "^5.1.0"
+  }
+}
